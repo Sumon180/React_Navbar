@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+li.active {
+  background-color: #ccc;
+  padding: 2px 15px;
+}
