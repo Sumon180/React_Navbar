@@ -10,11 +10,11 @@ const router: RouteObject[] = [
 
     },
     {
-        path: "/intigration",
+        path: "/contact",
         element: <Contact />,
     },
     {
-        path: "/form",
+        path: "/about",
         element: <About />
     },
 ]
